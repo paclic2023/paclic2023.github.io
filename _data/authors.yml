@@ -2,9 +2,9 @@
 
 program-chairs:
   name        : "Program Chairs"
-  email       : ""
+  email       : "paclic37@gmail.com"
   bio         : ""
-  avatar      : ""
+  avatar      : "/assets/images/logos/paclic.png"
 
 publicity-chairs:
   name        : "Publicity Chairs"

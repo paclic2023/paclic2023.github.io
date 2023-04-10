@@ -3,13 +3,17 @@ title: "Pacific Asia Conference on Language, Information and Computation (PACLIC
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/singapore/singapore_wallpaper.jpg"
-  caption: 'Photo from <a href="https://wallpaperaccess.com/singapore">WallpaperAccess</a> '
+  overlay_image: "/assets/images/singapore/building.jpg"
+  caption: 'The Hong Kong Polytechnic University'
 excerpt: "Hong Kong <br>December 2&ndash;4, 2023"
 ---
 
 ## Welcome!
-The 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37)
+The 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37) will be in Hong Kong, from December 2-4, 2023, at The Hong Kong Polytechnic University.
+
+PACLIC 37 emphasizes the synergy of theoretical frameworks and processing of natural language, providing a forum for researchers from different fields to share and discuss progress in scientific studies, development and application of the topics related to the study of languages.
+
+Deadline for papers is July 16, 2023 and the papers need to be submittted at [our Easychair platform](https://easychair.org/conferences/?conf=paclic37). For more information, visit [here](/calls/main_conference_papers/).
 
 
 ## News
@@ -17,18 +21,18 @@ The 37th Pacific Asia Conference on Language, Information and Computation (PACLI
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| 2023-3-18 | [Style Files and Formatting](/calls/style-and-formatting/) is posted under the Calls.
-| 2023-3-17 | [Call for Main Conference Papers](/calls/main_conference_papers/) is posted.
-| 2023-3-17 | The official PACLIC 2023 website is launched.
+| 2023-4-30 | [Style Files and Formatting](/calls/style-and-formatting/) is posted under the Calls.
+| 2023-4-30 | [Call for Main Conference Papers](/calls/main_conference_papers/) is posted.
+| 2023-4-30 | The official PACLIC 2023 website is launched.
 {: .news-table}
 
-## BLOG POSTS 
+## Blog Posts and Announcements
 
 <style>
 .news-table { font-size: .9em; table-layout: fixed;}
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| 2023-3-17 | [PACLIC 2023 Blog](/blog/EMNLP-2023-blog)
+| 2023-3-17 | [Visa Information](/blog/hk-visa)
 {: .news-table}
 
 <!-- [Older BLOG POSTS](/blog/){: .btn .btn--info}
@@ -38,7 +42,6 @@ The 37th Pacific Asia Conference on Language, Information and Computation (PACLI
 ## Important Dates
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</b>
 
-### Main Coference Papers
 <style>
 .news-table { font-size: .9em; table-layout: fixed;}
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
