@@ -3,8 +3,8 @@ title: "Pacific Asia Conference on Language, Information and Computation (PACLIC
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/singapore/building.jpg"
-  caption: 'The Hong Kong Polytechnic University'
+  overlay_image: "/assets/images/singapore/hongkong.jpg"
+  caption: 'Hong Kong Harbour View'
 excerpt: "Hong Kong <br>December 2&ndash;4, 2023"
 ---
 
@@ -13,7 +13,7 @@ The 37th Pacific Asia Conference on Language, Information and Computation (PACLI
 
 PACLIC 37 emphasizes the synergy of theoretical frameworks and processing of natural language, providing a forum for researchers from different fields to share and discuss progress in scientific studies, development and application of the topics related to the study of languages.
 
-Deadline for papers is July 16, 2023 and the papers need to be submittted at [our Easychair platform](https://easychair.org/conferences/?conf=paclic37). For more information, visit [here](/calls/main_conference_papers/).
+Deadline for papers is July 16, 2023 and the papers need to be submittted to [our Easychair platform](https://easychair.org/conferences/?conf=paclic37). For more information, visit [here](/calls/main_conference_papers/).
 
 
 ## News
