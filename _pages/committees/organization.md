@@ -59,3 +59,27 @@ The chairs can be contacted at [paclic37@gmail.com](mailto:paclic37@gmail.com).
    picture="/assets/images/committee/pranav.jpg"
    institution="Dayta AI"
 %}
+
+{% include committee-member.html
+   name="Winnie Zeng"
+   picture="/assets/images/committee/winnie.jpg"
+   institution="The Hong Kong Polytechnic University"
+%}
+
+{% include committee-member.html
+   name="Bo Peng"
+   picture="/assets/images/committee/blank.jpg"
+   institution="The Hong Kong Polytechnic University"
+%}
+
+{% include committee-member.html
+   name="Yuxi Li"
+   picture="/assets/images/committee/blank.jpg"
+   institution="The Hong Kong Polytechnic University"
+%}
+
+{% include committee-member.html
+   name="Junlin Li"
+   picture="/assets/images/committee/blank.jpg"
+   institution="The Hong Kong Polytechnic University"
+%}
