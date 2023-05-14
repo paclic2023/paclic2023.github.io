@@ -16,7 +16,7 @@ Please use the following templates for paper submissions:
 
 * [LaTex](/downloads/paclic2023.zip)
 * [Word](/downloads/acl2023.docx)
-* [Overleaf](https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp)
+* [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-paclic-2023-proceedings/rmcxhznkcqff)
 
 ## Formatting
 
