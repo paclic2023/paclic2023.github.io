@@ -37,7 +37,7 @@ We value hybrid talks on linguistic principles and implementation details, massi
 
   <tr>
     <td>Conference</td>
-    <td>December 2-4, 2023</td>
+    <td>December 2-5, 2023</td>
   </tr>
 
 </table>
@@ -146,4 +146,8 @@ All accepted papers must be presented at the conference—either on-line or in-p
 At least one author of each accepted paper must register for PACLIC 2023 by the early registration deadline.
 
 More information can be found in the Committee blog. If you have questions that are not answered there, please email the program co-chairs.
+
+## Hybrid Mode
+
+PACLIC 2023 will be held in hybrid mode, both online and offline. Although, we encourage authors to attend in-person, if possible. PACLIC organizers will provide arrangements for streaming and remote presentation. 
 
