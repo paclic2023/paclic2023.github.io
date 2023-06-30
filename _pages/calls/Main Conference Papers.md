@@ -23,7 +23,7 @@ We value hybrid talks on linguistic principles and implementation details, massi
 <table style="width: 100%; font-size: .9em;">
   <tr>
       <td>Paper submission deadline</td>
-      <td>July 16, 2023</td>
+      <td>July 30, 2023</td>
   </tr>
   <tr>
     <td>Notification of acceptance</td>
