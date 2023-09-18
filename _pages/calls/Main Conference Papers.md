@@ -37,7 +37,7 @@ We value hybrid talks on linguistic principles and implementation details, massi
 
   <tr>
     <td>Conference</td>
-    <td>December 2-5, 2023</td>
+    <td>December 2-4, 2023</td>
   </tr>
 
 </table>

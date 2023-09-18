@@ -24,14 +24,14 @@ To register, please [fill this form](https://alt.jotfor.ms/232601363737050).
 ## Registration Pricing
 All amounts in HKD.<br>
 
-| Type |In-Person|	Virtual| 
-|---|---|---|
-|Regular Early |	1500.00	| 1500.00|
-|Regular Late  |	2500.00	| 2500.00|
-|Regular Onsite |	3500.00|	3500.00|
-|Student Early | 	800.00	|800.00|
-|Student Late |	1500.00	|1500.00|
-|Student Onsite	|2500.00	|2500.00|
+| Type |Price|	
+|---|---|
+|Regular Early |	1500.00	| 
+|Regular Late  |	2500.00	|
+|Regular Onsite |	3500.00|
+|Student Early | 	800.00	|
+|Student Late |	1500.00	|
+|Student Onsite	|2500.00	|
 
 
 ## Registration Details

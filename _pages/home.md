@@ -15,15 +15,6 @@ The main conference will take place from December 2-4 and the associated events 
 
 PACLIC 37 emphasizes the synergy of theoretical frameworks and processing of natural language, providing a forum for researchers from different fields to share and discuss progress in scientific studies, development and application of the topics related to the study of languages.
 
-## Timetable
-<style>
-.news-table { font-size: .9em; table-layout: fixed; }
-.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
-</style>
-| 2-4 December | Main Conference
-| 5 December | Associated workshops and events
-{: .news-table}
-
 
 ## News
 <style>
@@ -59,7 +50,8 @@ PACLIC 37 emphasizes the synergy of theoretical frameworks and processing of nat
 | Submission deadline (long & short papers) | July 30, 2023
 | Notification of acceptance (long & short papers) | September 10, 2023
 | Camera-ready papers due (long & short papers) | October 1, 2023
-| Workshops & Tutorials & Conference | December 2-4, 2023
+| Main Conference | December 2-4, 2023
+| Associated workshops and events | December 5, 2023
 
 {: .news-table}
 
