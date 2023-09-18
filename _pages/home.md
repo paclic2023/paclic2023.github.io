@@ -15,7 +15,14 @@ The main conference will take place from December 2-4 and the associated events 
 
 PACLIC 37 emphasizes the synergy of theoretical frameworks and processing of natural language, providing a forum for researchers from different fields to share and discuss progress in scientific studies, development and application of the topics related to the study of languages.
 
-Deadline for papers is July 30, 2023 and the papers need to be submittted to [our Easychair platform](https://easychair.org/conferences/?conf=paclic37). For more information, visit [here](/calls/main_conference_papers/).
+## Timetable
+<style>
+.news-table { font-size: .9em; table-layout: fixed; }
+.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
+</style>
+| 2-4 December | Main Conference
+| 5 December | Associated workshops and events
+{: .news-table}
 
 
 ## News
