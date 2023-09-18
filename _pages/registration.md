@@ -8,14 +8,14 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-**Registration will be open soon.**
+**Registration will be open soon. Please [fill this survey](https://alt.jotfor.ms/232601363737050)**
 {: .notice .notice--info .text-center}
 
 
 We have made every effort to keep registration fees affordable.  Please note that, for the virtual attendees, by paying the registration fee, you will enjoy full access to all tutorials, main conference, and workshops.  For in-person attendees, by paying the full registration fee, you will be able to attend all tutorials, main conference, and workshops of your choosing.  
 
 ## Registration Survey
-To register, please fill this form.
+To register, please [fill this form](https://alt.jotfor.ms/232601363737050).
 
 
 ❗❗**Early registration** ends 30 September 2023.
