@@ -9,9 +9,6 @@ main:
 
   - title: "Registration"
     url: /registration/
-
-  - title: "Calls"
-    url: /calls/main_conference_papers/
     
   - title: "Blog"
     url: /blog/
@@ -30,6 +27,9 @@ main:
   
   - title: "Accomodation"
     url: /venue
+
+  - title: "Calls"
+    url: /calls/main_conference_papers/
 
   #- title: "Reviewer"
   #  url: /not_available
