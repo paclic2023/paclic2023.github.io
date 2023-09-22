@@ -39,7 +39,6 @@ Charles Yang is an accomplished scholar and educator in the field of cognitive s
 Throughout his career, Charles has delved into various areas of research, including language acquisition, variation, and change. His expertise extends to natural language processing (NLP) and the study of the human mind, encompassing numerical and conceptual development in children. Charles is a published author with notable works such as "The Price of Linguistic Productivity: How Children Learn to Break the Rules of Language" (MIT Press 2016), which earned him the esteemed Leonard Bloomfield Award from the Linguistic Society of America.
 
 Recognized for his contributions, Charles has received fellowships from esteemed institutions like the National Science Foundation (1995) and the John Simon Guggenheim Memorial Foundation (2018). His leadership is evident in his co-direction of the Integrated Language Science and Technology initiative at the University of Pennsylvania, building upon the institution's historic legacy as a pioneer in interdisciplinary linguistic research.
-{: .speaker-bio}
 
 Affiliation: University of Pennsylvania
 {: .speaker-bio}
@@ -55,7 +54,6 @@ Lori Levin is a highly accomplished computational linguist with a specialization
 In addition to her impressive academic background, Lori is widely recognized as the co-founder and co-chair of the North American Computational Linguistics Open competition (NACLO). Her dedication to fostering linguistic talent and promoting computational linguistics has made NACLO a prominent platform for aspiring linguists to showcase their skills and engage in friendly competition.
 
 Throughout her career, Lori has made significant contributions to the field, both through her research and her commitment to nurturing the next generation of computational linguists. Her passion for linguistic diversity and her determination to make a positive impact on language understanding have solidified her reputation as a leading figure in the computational linguistics community.
-{: .speaker-bio}
 
 Affiliation: Carnegie Mellon University
 {: .speaker-bio}
