@@ -1,14 +1,20 @@
 ---
 title: Conference Program
 layout: single
-excerpt: "NAACL 2021 Conference Program."
+excerpt: "Conference Program."
 permalink: /program/
 toc: false
 sidebar:
     nav: program
 ---
 
-Please refer to the [Conference blog post](/blog/) for more details information.
+## Information for presenters
+### Oral presentation
+The duration of each talk (in the oral sessions) is 25 mins, with 20 mins for the presentation and 5 mins for Q&A. A computer will be available on the podium for presenters. If audios or videos are to be played during the presentation, the presenter is recommended to test the audio/video playing functions before the oral session.
+## Poster presentation
+The poster board is 185cm (H) and 85cm (W). The recommended poster size is A0 portrait. Importantly, please make sure that the width of your poster is shorter than 85cm.
+
+<!-- Please refer to the [Conference blog post](/blog/) for more details information.
 Time Zone: GST (GMT+4)
 
 We will have a supply of Conf. Handbooks available at Registration Check-in for in-person participants however for an up to date schedule you can download on line  [here](https://drive.google.com/file/d/1OlPv6QBeo62VVTughj2jkiLeyHd1WnUt/view?usp=sharing).
@@ -111,7 +117,7 @@ __Locations__: __Oral Sessions and Virtual Portals__ in Hall A (Rooms A/B/C/D), 
 
 ## Exhibitor Floor Plan
 ![adnec-map-3]({{ site.baseurl }}/assets/images/abu_dhabi/2022-EMNLP-EXIBITOR-SET.png)
-
+ -->
 
 
 <!--Please refer to the [Conference Structure blog post](/blog/conference-structure/) for more details regarding the schedule and presentation formats.
