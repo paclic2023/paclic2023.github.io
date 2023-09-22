@@ -18,7 +18,7 @@ We have made every effort to keep registration fees affordable.  Please note tha
 To register, please [fill this form](https://alt.jotfor.ms/232601363737050).
 
 
-❗❗**Early registration** ends 30 September 2023.
+❗❗**Early registration** ends 10 October 2023.
 
 
 ## Registration Pricing
@@ -37,9 +37,9 @@ All amounts in HKD.<br>
 ## Registration Details
 
 * The registration fee includes 3-day conference, lunches, coffee-breaks and a dinner banquet.
-* The dinner banquet is NOT included. To enjoy student rates, you are required to upload a scan of the student ID card during online registration, or show the student ID during onsite registration.
+* To enjoy student rates, you are required to upload a scan of the student ID card during online registration, or show the student ID during onsite registration.
 * For online payment, an official receipt will be addressed to you by email. The organizer will not issue the hard copy receipt again in any other format.
-* To enjoy early bird rates, both online registration and online payment must be completed on or before Sep 30 (Hong Kong time).
+* To enjoy early bird rates, both online registration and online payment must be completed on or before Oct 10 (Hong Kong time).
 * To enjoy pre-registration rates, both online registration and online payment must be completed on or before Nov 15 (Hong Kong time).
 * Access to all recorded sessions on demand for at least one month following the Meeting
  
