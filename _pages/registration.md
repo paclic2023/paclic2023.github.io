@@ -8,6 +8,9 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+**We are sorry that the activation of the registration platform is taking longer than expected. The early bird deadline will be extended accordingly as soon as the platform is online.**
+{: .notice .notice--info .text-center}
+
 **Registration will be open soon. Please [fill this survey](https://alt.jotfor.ms/232601363737050)**
 {: .notice .notice--info .text-center}
 
@@ -18,7 +21,7 @@ We have made every effort to keep registration fees affordable.  Please note tha
 To register, please [fill this form](https://alt.jotfor.ms/232601363737050).
 
 
-❗❗**Early registration** ends 10 October 2023.
+❗❗**Early registration** ends November 2023 (Date TBA).
 
 
 ## Registration Pricing
