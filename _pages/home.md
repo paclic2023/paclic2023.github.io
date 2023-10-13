@@ -21,6 +21,7 @@ PACLIC 37 emphasizes the synergy of theoretical frameworks and processing of nat
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2023-10-13 | Information regarding the [invited talks](/program/talks) is posted.
 | 2023-10-9 | Information regarding the draft [program](/program) is posted.
 | 2023-10-4 | Information regarding [keynotes](/program/keynotes) is posted.
 | 2023-9-18 | Information regarding [registration](/registration) and [accomodation](/venue) is posted.
