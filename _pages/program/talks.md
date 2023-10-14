@@ -2,7 +2,7 @@
 title: Invited Talks
 layout: single
 excerpt: "PACLIC 2023 Invited Talks"
-permalink: /program/keynotes/
+permalink: /program/talks/
 toc: true
 toc_sticky: true
 toc_icon: "cog"
