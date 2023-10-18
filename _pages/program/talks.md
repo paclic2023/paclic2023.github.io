@@ -18,7 +18,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ## Speaker: Enrico Santus
 
-![Enrico Santus](assets/images/keynotes/SANTUS01.png){: .align-center}
+![Enrico Santus](/assets/images/keynotes/SANTUS01.png){: .align-center}
 
 ### Talk title: Human-AI Collaboration & Adaptive Processes in Industry
 
