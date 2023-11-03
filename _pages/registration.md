@@ -8,20 +8,14 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-**We are sorry that the activation of the registration platform is taking longer than expected. The early bird deadline will be extended accordingly as soon as the platform is online.**
-{: .notice .notice--info .text-center}
 
-**Registration will be open soon. Please [fill this survey](https://alt.jotfor.ms/232601363737050)**
+**Registration is now open! Please enter this [link](https://www.polyu.edu.hk/pfs2/index.php/646412) to register. Early registration deadline is November 17.**
 {: .notice .notice--info .text-center}
-
 
 We have made every effort to keep registration fees affordable.  Please note that, for the virtual attendees, by paying the registration fee, you will enjoy full access to all tutorials, main conference, and workshops.  For in-person attendees, by paying the full registration fee, you will be able to attend all tutorials, main conference, and workshops of your choosing.  
 
-## Registration Survey
-To register, please [fill this form](https://alt.jotfor.ms/232601363737050).
 
-
-❗❗**Early registration** ends November 2023 (Date TBA).
+❗❗**Early registration** ends November 17 2023.
 
 
 ## Registration Pricing

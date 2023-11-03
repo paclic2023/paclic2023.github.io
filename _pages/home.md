@@ -8,6 +8,9 @@ header:
 excerpt: "Hong Kong <br>December 2&ndash;5, 2023"
 ---
 
+**Registration is now open! Please enter this [link](https://www.polyu.edu.hk/pfs2/index.php/646412) to register. Early registration deadline is November 17.**
+{: .notice .notice--info .text-center}
+
 ## Welcome!
 The 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37) will be in Hong Kong, from December 2-5, 2023, at The Hong Kong Polytechnic University. This will be a hybrid (in-person with virtual presentation accomodations) event.
 
@@ -21,6 +24,7 @@ PACLIC 37 emphasizes the synergy of theoretical frameworks and processing of nat
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2023-10-13 | For registration, go to this [link](https://www.polyu.edu.hk/pfs2/index.php/646412) to register. Early registration deadline is November 17.
 | 2023-10-13 | Information regarding the [invited talks](/program/talks) is posted.
 | 2023-10-9 | Information regarding the draft [program](/program) is posted.
 | 2023-10-4 | Information regarding [keynotes](/program/keynotes) is posted.
