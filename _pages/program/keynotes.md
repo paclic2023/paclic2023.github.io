@@ -50,13 +50,10 @@ Affiliation: University of Pennsylvania
 
 ![Lori Levin](http://www.cs.cmu.edu/~lsl/images/lori_headshot_medium.jpg){: .align-center}
 
-### Talk title: TBA
+### Talk title: Interlinear Gloss in Natural Language Processing and Language Documentation
 
-Lori Levin is a highly accomplished computational linguist with a specialization in syntax and morphosyntax, with a particular focus on low-resource languages. Her expertise lies in the intersection of linguistics and technology, where she harnesses the power of computational methods to analyze and understand the intricacies of language structure.
+Interlinear Glossed Text (IGT) is the main mechanism used by linguists to document morphosyntax for the purpose of language documentation and linguistic research.  For endangered languages, larger corpora annotated with IGT would enable corpus linguistic studies and corpus based dictionaries and language learning programs. Nevertheless, a large proportion of field linguistic recordings go untranscribed and unannotated.  The wav2gloss project at Carnegie Mellon University and Gettysburg College aims to speed up the process of transcription and annotation using end-to-end neural models with human linguists in the loop and human knowledge in the form of weighted finite state transducers.  The talk will cover new Generalized Glossing Guidelines (G3) for documenting non-concatenative morphology and its application to tonal morphology in a large corpus of Yoloxochitl Mixtec.  We will also cover our efforts to convert field data archives containing audio and IGT in many languages to machine-learning-ready format for use in multi-lingual speech recognition models and multi-lingual models of IGT. 
 
-In addition to her impressive academic background, Lori is widely recognized as the co-founder and co-chair of the North American Computational Linguistics Open competition (NACLO). Her dedication to fostering linguistic talent and promoting computational linguistics has made NACLO a prominent platform for aspiring linguists to showcase their skills and engage in friendly competition.
 
-Throughout her career, Lori has made significant contributions to the field, both through her research and her commitment to nurturing the next generation of computational linguists. Her passion for linguistic diversity and her determination to make a positive impact on language understanding have solidified her reputation as a leading figure in the computational linguistics community.
-
-Affiliation: Carnegie Mellon University
+Lori Levin is a Research Professor in the Language Technologies Institute at Carnegie Mellon University, with a Ph.D. in linguistics (MIT 1986).  She has been Principal Investigator and Co-Principal Investigator of many funded projects where she provides the linguistic resources and corpus annotation for natural language processing systems. She has supervised work on dozens of languages and many types of corpus annotation including morphology, syntax, semantics, pragmatics, and discourse. For more than twenty years, she has specialized in NLP for low resource languages and endangered languages. She is also the co-founder (2007) and co-chair of the North American Computational Linguistics Open competition.
 {: .speaker-bio}
