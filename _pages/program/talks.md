@@ -37,8 +37,10 @@ Enrico Santus, a Sardinian native, embarked on an academic journey that led him 
 
 ## Speaker: Furhat Robotics
 
-![Furhat Robotics](https://www.furhatrobotics.com/wp-content/uploads/2020/10/IMG_20201008_110319-1.jpg){: .align-center}
+### Talk title: From Breakdown to Breakthrough: Overcoming 'Robot Death' in Social Interactions
 
-### Talk title: TBA
+In this talk we embark on an exploratory journey into the evolving world of social robotics. This presentation will delve into the fascinating interplay between human perceptions and conversational technology, and how theories of anthropomorphism in robotics apply to conversational design. The focus will be on how thorough conversation our inherent tendency to ascribe human-like qualities to robots shapes our interaction with them. This tendency, while creating initial engagement, often leads to critical moments where the dialogue breaks down and the whole illusion of a "living machine" breaks down, resulting in a disconnection between the user and the robot.
 
-Furhat Robotics is a Conversational AI and Social Robotics company that is building the world's first social robotics and conversational system platform. Furhat's mission is to enable a revolution in human-computer interaction through social and conversational robotics. 
+At the heart of this discussion is the transformative role Large Language Models (LLMs) could play in revolutionising human-robot interactions. These advanced technologies promise to reshape our conversations with robots, offering a seamless, dynamic experience that goes beyond the confines of pre-programmed responses. The talk will explore how LLMs can bridge the gap between the mechanical nature of robots and the complex, nuanced demands of human interaction, thereby maintaining the ‘illusion of life’ that is so crucial for engaging experiences.
+
+The presentation aims to provide a thought-provoking insight into how the integration of cutting-edge language models is setting the stage for a new era in social robotics—an era where robots are not just tools, but partners in a shared, interactive experience.
