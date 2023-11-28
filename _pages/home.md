@@ -18,20 +18,21 @@ The main conference will take place from December 2-4 and the associated events 
 
 PACLIC 37 emphasizes the synergy of theoretical frameworks and processing of natural language, providing a forum for researchers from different fields to share and discuss progress in scientific studies, development and application of the topics related to the study of languages.
 
+![Schedule](/assets/images/Conference_Poster/Conference_Poster-1.png)
+
 
 ## News
 <style>
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2023-11-27 | The program is attached [here in PDF](/downloads/PACLIC.pdf)
 | 2023-11-13 | [Workshops](/workshops) are announced
 | 2023-10-13 | For registration, go to this [link](https://www.polyu.edu.hk/pfs2/index.php/646412) to register. Early registration deadline is November 17.
 | 2023-10-13 | Information regarding the [invited talks](/program/talks) is posted.
-| 2023-10-9 | Information regarding the draft [program](/program) is posted.
+| 2023-10-9 | Information regarding the [program](/program) is posted.
 | 2023-10-4 | Information regarding [keynotes](/program/keynotes) is posted.
 | 2023-9-18 | Information regarding [registration](/registration) and [accomodation](/venue) is posted.
-| 2023-4-30 | [Style Files and Formatting](/calls/style-and-formatting/) is posted under the Calls.
-| 2023-4-30 | [Call for Main Conference Papers](/calls/main_conference_papers/) is posted.
 | 2023-4-30 | The official PACLIC 2023 website is launched.
 {: .news-table}
 

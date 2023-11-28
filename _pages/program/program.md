@@ -8,11 +8,19 @@ sidebar:
     nav: program
 ---
 
-## Draft program
+## Program
 
-The draft program is attached [here](/downloads/PACLIC2023-Program_Draft2.docx). This is a provisional program and it is subject to change in the future. Please contact the program chairs if you want to request any changes. 
+The program is attached [here in PDF](/downloads/PACLIC.pdf). The schedule is as follows:
 
-## Information for presenters
+![Schedule](/assets/images/PACLIC_2023/PACLIC_2023-1.png)
+![Schedule](/assets/images/PACLIC_2023/PACLIC_2023-2.png)
+![Schedule](/assets/images/PACLIC_2023/PACLIC_2023-3.png)
+![Schedule](/assets/images/PACLIC_2023/PACLIC_2023-4.png)
+![Schedule](/assets/images/PACLIC_2023/PACLIC_2023-5.png)
+![Schedule](/assets/images/PACLIC_2023/PACLIC_2023-6.png)
+![Schedule](/assets/images/PACLIC_2023/PACLIC_2023-7.png)
+
+# Information for presenters
 ## Oral presentation
 The duration of each talk (in the oral sessions) is 25 mins, with 20 mins for the presentation and 5 mins for Q&A. A computer will be available on the podium for presenters. If audios or videos are to be played during the presentation, the presenter is recommended to test the audio/video playing functions before the oral session.
 ## Poster presentation
