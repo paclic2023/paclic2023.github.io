@@ -8,10 +8,6 @@ categories:
   blog
 ---
 
-# Career Development in Linguistics and Language Sciences
-
-## In the time of Big Data and GenAI
-
 **A Roundtable for PhD Students and Young Scholars in Linguistics and Language Sciences**
 
 **Time**: 11:00-12:30 am, 2 September 2023
