@@ -26,6 +26,7 @@ PACLIC 37 emphasizes the synergy of theoretical frameworks and processing of nat
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2023-12-1 | The [workshop program](/posts/workshop) on South Asian Linguistics is posted.
 | 2023-11-30 | The [roundtable information](/posts/roundtable) is added.
 | 2023-11-27 | The program is attached [here in PDF](/downloads/PACLIC.pdf)
 | 2023-11-13 | [Workshops](/workshops) are announced
