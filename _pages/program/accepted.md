@@ -13,4 +13,4 @@ sidebar:
 
 Main Conference
 ---
-**Chengguang Gan and Tatsunori Mori**<br>Sensitivity and Robustness of Large Language Models to Prompt Template in Japanese Text Classification Tasks<br>[link to paper](/downloads/PACLIC_37/review assignment for submission 5)
+**Chengguang Gan and Tatsunori Mori**<br>Sensitivity and Robustness of Large Language Models to Prompt Template in Japanese Text Classification Tasks<br>[link to paper](/downloads/PACLIC_37/PACLIC_37_paper_5.pdf)
