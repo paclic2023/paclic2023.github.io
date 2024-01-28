@@ -8,8 +8,6 @@ header:
 excerpt: "Hong Kong <br>December 2&ndash;5, 2023"
 ---
 
-**Proceedings of PACLIC 2023 are [here](/program/accepted). Proceedings will be available in ACL Anthology soon.**
-{: .notice .notice--info .text-center}
 
 ## Welcome!
 The 37th Pacific Asia Conference on Language, Information and Computation (PACLIC 37) will be in Hong Kong, from December 2-5, 2023, at The Hong Kong Polytechnic University. This will be a hybrid (in-person with virtual presentation accomodations) event.
