@@ -8,7 +8,7 @@ header:
 excerpt: "Hong Kong <br>December 2&ndash;5, 2023"
 ---
 
-**Registration is now open! Please enter this [link](https://www.polyu.edu.hk/pfs2/index.php/646412) to register. Early registration deadline is November 17.**
+**Proceedings of PACLIC 2023 are [here](/program/accepted). Proceedings will be available in ACL Anthology soon.**
 {: .notice .notice--info .text-center}
 
 ## Welcome!
@@ -26,6 +26,7 @@ PACLIC 37 emphasizes the synergy of theoretical frameworks and processing of nat
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2024-1-1 | The [conference proceedings](/program/accepted) are posted.
 | 2023-12-1 | The [workshop program](/blog/workshop) on South Asian Linguistics is posted.
 | 2023-11-30 | The [roundtable information](/blog/roundtable) is added.
 | 2023-11-27 | The program is attached [here in PDF](/downloads/PACLIC.pdf)

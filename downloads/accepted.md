@@ -1,18 +1,3 @@
----
-title: Accepted Papers
-layout: single
-excerpt: "PACLIC Accepted Papers"
-permalink: /program/accepted/
-toc: true
-toc_sticky: true
-toc_icon: "cog"
-sidebar:
-    nav: program
----
-
-
-Main Conference
----
 **Chengguang Gan and Tatsunori Mori**<br>Sensitivity and Robustness of Large Language Models to Prompt Template in Japanese Text Classification Tasks<br>[link to paper](/downloads/PACLIC_37/PACLIC_37_paper_5.pdf)
 
 **Yuki Zenimoto, Shinzan Komata and Takehito Utsuro**<br>Large Scale Evaluation of End-to-End Pipeline of Speaker to Dialogue Attribution in Japanese Novels<br>[link to paper](/downloads/PACLIC_37/PACLIC_37_paper_9.pdf)
