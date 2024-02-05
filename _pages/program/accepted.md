@@ -14,7 +14,7 @@ sidebar:
 
 **Yuki Zenimoto, Shinzan Komata and Takehito Utsuro**<br>Large Scale Evaluation of End-to-End Pipeline of Speaker to Dialogue Attribution in Japanese Novels<br>[link to paper](/downloads/PACLIC_37/PACLIC_37_paper_9.pdf)
 
-**Tinh Pham Phuc Do, Ngoc Dinh Duy Cao, Kiet Van Nguyen, Nhan Thanh Nguyen and Tin Van Huynh**<br>Machine Reading Comprehension for Vietnamese Customer Reviews: Task, Corpus and Baseline Models<br>[link to paper](/downloads/PACLIC_37/PACLIC_37_paper_14.pdf)
+**Tinh Pham Phuc Do, Ngoc Dinh Duy Cao, Nhan Thanh Nguyen, Tin Van Huynh and Kiet Van Nguyen**<br>Machine Reading Comprehension for Vietnamese Customer Reviews: Task, Corpus and Baseline Models<br>[link to paper](/downloads/PACLIC_37/PACLIC_37_paper_14.pdf)
 
 **Taisei Enomoto, Tosho Hirasawa, Hwichan Kim, Teruaki Oka and Mamoru Komachi**<br>Simultaneous Domain Adaptation of Tokenization and Machine Translation<br>[link to paper](/downloads/PACLIC_37/PACLIC_37_paper_15.pdf)
 
